@@ -1,1 +1,5 @@
 This is for Squash merge
+This is File1B
+File change11
+This is for squash merge
+Different Squash merge
