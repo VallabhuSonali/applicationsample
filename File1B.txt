@@ -1,5 +1,10 @@
 This is File1B
+<<<<<<< HEAD
 File change111
 Making a change
 Making another
 This is squash merge
+=======
+File change11
+This is for squash merge
+>>>>>>> FeatureA
